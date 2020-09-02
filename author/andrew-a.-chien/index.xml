@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew A. Chien | GoodWill Computing Labs</title>
-    <link>goodwillcomputinglabs.github.io/author/andrew-a.-chien/</link>
-      <atom:link href="goodwillcomputinglabs.github.io/author/andrew-a.-chien/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://goodwillcomputinglabs.github.io//author/andrew-a.-chien/</link>
+      <atom:link href="https://goodwillcomputinglabs.github.io//author/andrew-a.-chien/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew A. Chien</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/goodwillcomputinglabs.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://goodwillcomputinglabs.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Andrew A. Chien</title>
-      <link>goodwillcomputinglabs.github.io/author/andrew-a.-chien/</link>
+      <link>https://goodwillcomputinglabs.github.io//author/andrew-a.-chien/</link>
     </image>
     
     <item>
       <title>Granularity and the cost of error recovery in resilient AMR scientific applications</title>
-      <link>goodwillcomputinglabs.github.io/publication/dblp-confsc-dubey-fgct-16/</link>
+      <link>https://goodwillcomputinglabs.github.io//publication/dblp-confsc-dubey-fgct-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>goodwillcomputinglabs.github.io/publication/dblp-confsc-dubey-fgct-16/</guid>
+      <guid>https://goodwillcomputinglabs.github.io//publication/dblp-confsc-dubey-fgct-16/</guid>
       <description></description>
     </item>
     
