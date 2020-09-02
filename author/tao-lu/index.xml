@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tao Lu | GoodWill Computing Labs</title>
-    <link>GoodwillComputingLabs.github.io/author/tao-lu/</link>
-      <atom:link href="GoodwillComputingLabs.github.io/author/tao-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>goodwillcomputinglabs.github.io/author/tao-lu/</link>
+      <atom:link href="goodwillcomputinglabs.github.io/author/tao-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/GoodwillComputingLabs.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/goodwillcomputinglabs.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tao Lu</title>
-      <link>GoodwillComputingLabs.github.io/author/tao-lu/</link>
+      <link>goodwillcomputinglabs.github.io/author/tao-lu/</link>
     </image>
     
     <item>
       <title>Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior</title>
-      <link>GoodwillComputingLabs.github.io/publication/dblp-confmascots-tang-hhlvt-17/</link>
+      <link>goodwillcomputinglabs.github.io/publication/dblp-confmascots-tang-hhlvt-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>GoodwillComputingLabs.github.io/publication/dblp-confmascots-tang-hhlvt-17/</guid>
+      <guid>goodwillcomputinglabs.github.io/publication/dblp-confmascots-tang-hhlvt-17/</guid>
       <description></description>
     </item>
     

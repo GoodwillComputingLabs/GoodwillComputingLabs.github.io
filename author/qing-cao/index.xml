@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qing Cao | GoodWill Computing Labs</title>
-    <link>GoodwillComputingLabs.github.io/author/qing-cao/</link>
-      <atom:link href="GoodwillComputingLabs.github.io/author/qing-cao/index.xml" rel="self" type="application/rss+xml" />
+    <link>goodwillcomputinglabs.github.io/author/qing-cao/</link>
+      <atom:link href="goodwillcomputinglabs.github.io/author/qing-cao/index.xml" rel="self" type="application/rss+xml" />
     <description>Qing Cao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/GoodwillComputingLabs.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/goodwillcomputinglabs.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Qing Cao</title>
-      <link>GoodwillComputingLabs.github.io/author/qing-cao/</link>
+      <link>goodwillcomputinglabs.github.io/author/qing-cao/</link>
     </image>
     
     <item>
       <title>A practical approach to reconciling availability, performance, and capacity in provisioning extreme-scale storage systems</title>
-      <link>GoodwillComputingLabs.github.io/publication/dblp-confsc-wan-wotvc-15/</link>
+      <link>goodwillcomputinglabs.github.io/publication/dblp-confsc-wan-wotvc-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>GoodwillComputingLabs.github.io/publication/dblp-confsc-wan-wotvc-15/</guid>
+      <guid>goodwillcomputinglabs.github.io/publication/dblp-confsc-wan-wotvc-15/</guid>
       <description></description>
     </item>
     
